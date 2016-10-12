@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+}
+
+img {
+  width: 200px;
+  float: left;
+}
+
+span {
+  color: pink;  
+}
+
+#id_one {
+  color: green;
+}
+
+.one {
+  color: red;
+}
+
+.two {
+  color: blue;
+}
