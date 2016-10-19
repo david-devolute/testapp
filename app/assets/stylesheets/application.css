@@ -22,8 +22,12 @@ img {
   float: left;
 }
 
+a {
+  color: red;
+}
+
 span {
-  color: pink;  
+  color: pink;
 }
 
 #id_one {
